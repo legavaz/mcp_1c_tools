@@ -1,0 +1,13 @@
+# Бинарные артефакты сборки
+*.epf
+*.erf
+*.cf
+*.cfe
+*.dt
+
+# Локальные настройки и логи
+.v8-project.json
+opencode.json
+*.log
+tmp/
+out/
