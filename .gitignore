@@ -11,3 +11,10 @@ opencode.json
 *.log
 tmp/
 out/
+
+# Секреты и учётные данные
+secrets/
+.1c/
+secret*.json
+credentials*.json
+ONEC_PASSWORD*
